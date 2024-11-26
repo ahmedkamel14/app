@@ -1,0 +1,30 @@
+.parent{
+    background-color: skyblue;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    position: relative;
+    
+
+}
+
+.parent div{
+    height: 50px;
+}
+.one{
+    background-color: tomato;
+
+}
+
+.two{
+    background-color: gold;
+    position: absolute;
+    bottom: 0px;
+    top: 0px;
+    right: ;
+    left: ;
+}
+
+.three{
+    background-color: darkviolet;
+}
